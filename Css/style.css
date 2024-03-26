@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: #f0ece5;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+h1:hover{
+    color: rgb(34, 67, 101);
+}
+hr{
+    width: 100px;
+    height: 2px;
+    background: red;
+    margin-left: 47%;
+    margin-top: 10px;
+}
+hr:hover{
+    background: darkblue;
+}
+h2{
+    color: white;
+}
+button{
+    width: 60%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 60px;
+    border: rgb(0, 0, 0) 1.5px solid;
+    font-size: 18px;
+}
+.five{
+    margin-top: 50px;
+    border: rgb(0, 0, 0) 2px solid;
+}
+.one{
+    width: 300px;
+    height: 400px;
+    background: #161a30;
+    float: left;
+    margin-left: 150px;
+}
+.one:hover{
+    background: #6096b4;
+}
+.first{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border: rgb(0, 0, 0) 1.5px solid;
+}
+.first:hover{
+    background: #2b566d;
+}
+.h21{
+    font-size: 30px;
+    text-align: center;
+    margin: 50px 0;
+}
+.h21:hover{
+    color: black;
+}
+.p1{
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 30px;
+}
+.p1:hover{
+    color: white;
+}
+.p2{
+    text-align: center;
+    margin: 10px 0;
+    color: white;
+    font-size: 18px;
+}
+.p2:hover{
+    color: black;
+}
+.button1:hover{
+    background:  #08212e;
+    color: white;
+}
+.two{
+    width: 300px;
+    height: 400px;
+    background: #31304d;
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.two:hover{
+    background: #4c6a74;
+}
+.second{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border: rgb(0, 0, 0) 1.5px solid;
+}
+.second:hover{
+    background: #384f58;
+}
+.h22{
+    font-size: 30px;
+    text-align: center;
+    margin: 50px 0;
+}
+.h22:hover{
+    color: black;
+}
+.p3{
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 30px;
+}
+.p3:hover{
+    color: white;
+}
+.p4{
+    text-align: center;
+    margin: 10px 0;
+    color: white;
+    font-size: 18px;
+}
+.p4:hover{
+    color: black;
+}
+.button2:hover{
+    background: #121f24;
+    color: white;
+}
+.three{
+    width: 300px;
+    height: 400px;
+    background: #71809c;
+    float: left;
+}
+.three:hover{
+    background: #809da9;
+}
+.third{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border: rgb(0, 0, 0) 1.5px solid;
+}
+.third:hover{
+    background: #4e5355;
+}
+.h23{
+    font-size: 30px;
+    text-align: center;
+    margin: 50px 0;
+}
+.h23:hover{
+    color: black;
+}
+.p5{
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 30px;
+}
+.p5:hover{
+    color: white;
+}
+.p6{
+    text-align: center;
+    margin: 10px 0;
+    color: white;
+    font-size: 18px;
+}
+.p6:hover{
+    color: black;
+}
+.button3:hover{
+    background: #111a21;
+    color: white;
+}
